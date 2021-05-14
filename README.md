@@ -1,5 +1,5 @@
 # Hi there 👋
-[LinkedIn(https://www.linkedin.com/in/davruiz)
+[LinkedIn](https://www.linkedin.com/in/davruiz)
 <!--
 **davruizc/davruizc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
